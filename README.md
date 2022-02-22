@@ -10,17 +10,25 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
 ---
 * **Main**   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
+<img src="https://img.shields.io/badge/Kotlin-7BC8F6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
 <img src="https://img.shields.io/badge/JDBC-yellow?style=flat-square&logo=JDBC&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>   
+<img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
 * **Sub**   
 <img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/python-f6f644?style=flat-square&logo=python&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/python-339933?style=flat-square&logo=python&logoColor=#white"/></a>
 <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
 * **Ect**   
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=green"/></a>
+<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>   
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
 <img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Slack-A442A0?style=flat&logo=Slack&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+
+🙏Contribute🙏
+---
+![hyeong-jun's github stats](https://github-readme-stats.vercel.app/api?username=hyeong-jun-kim&show_icons=true&theme=dark&bg_color=#3399ff)
