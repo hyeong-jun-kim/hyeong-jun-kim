@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there ![image](https://user-images.githubusercontent.com/53989167/155066292-4c11c82d-41ce-4b73-a81b-2675cf6c6666.png)
+
 
 <!--
 **hyeong-jun-kim/hyeong-jun-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
