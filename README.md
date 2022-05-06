@@ -2,7 +2,7 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
 --- 
    *I am a developer who is interested in **Spring Framework** and **Server Architecture**.*![giphy (2)](https://user-images.githubusercontent.com/61732452/104540969-f198b500-5663-11eb-9854-b345f4478c29.gif)   
    *The main languages is **Java** and other languages can be used at basic levels.*![giphy (4) (2) (1)](https://user-images.githubusercontent.com/61732452/104541119-43413f80-5664-11eb-870b-f4f6beaa5f91.gif)   
-   *Above all, I am a person who **loves development**.*![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
+   *Above all, I am a person who **loves development.**.*![giphy (3) (5)](https://user-images.githubusercontent.com/61732452/104492275-bb811400-5616-11eb-8636-b8e6c90b4eb4.gif)
    
 <img width="30%" src="https://user-images.githubusercontent.com/53989167/155067633-551aaf4c-3f2e-468e-a03a-bdcef009c9e3.gif"/>
 
