@@ -6,28 +6,39 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
    
 <img width="30%" src="https://user-images.githubusercontent.com/53989167/155067633-551aaf4c-3f2e-468e-a03a-bdcef009c9e3.gif"/>
 
-💻Languages & Tools💻 
+💻Stacks
 ---
-* **Main**   
+#### Languages
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=#007396"/></a>
-<img src="https://img.shields.io/badge/Kotlin-7BC8F6?style=flat-square&logo=Kotlin&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/JDBC-yellow?style=flat-square&logo=JDBC&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jpa-3766AB?style=flat-square&logo=Jpa&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/mysql-f7f7f7?style=flat-square&logo=mysql&logoColor=black"/></a>
-* **Sub**   
-<img src="https://img.shields.io/badge/C++-f6f644?style=flat-square&logo=C++&logoColor=#00599C"/></a>
-<img src="https://img.shields.io/badge/python-339933?style=flat-square&logo=python&logoColor=#white"/></a>
-<img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=#232F3E"/></a>
-* **Ect**   
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=#000000"/></a>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Springboot&logoColor=green"/></a>
-<img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=android&logoColor=white"/></a>   
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=#5C2D91"/></a>
-<img src="https://img.shields.io/badge/Notion-b4f5bd?style=flat&logo=Notion&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Slack-A442A0?style=flat&logo=Slack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/></a>
+<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white"/></a>
+
+#### Framework & Library 
+<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/></a>
+<img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Druid-29F1FB?&style=flat-square&logo=Apache Druid&logoColor=black"/></a>
+
+#### DevOps
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/></a>
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=flat-square&logo=kubernetes&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=Argo&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Prometheus-000000?style=flat-square&logo=prometheus&labelColor=000000"/></a>
+
+#### DataBase
+<img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/></a>
+
+#### Cloud   
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Kakao_i_Cloud-FFCD00?style=flat-square&logo=Kakao&logoColor=black"/>
+
+#### IDE  
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/></a>
 
 🙏Contribute🙏
 ---
