@@ -13,7 +13,7 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
 <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white"/></a>
 
 #### Framework & Library 
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/></a>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?&style=flat-square&logo=rabbitmq&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat-square&logo=redis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white"/></a>
