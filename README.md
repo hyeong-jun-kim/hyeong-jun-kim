@@ -43,3 +43,6 @@ Intro![giphy (1) (1)](https://user-images.githubusercontent.com/61732452/1044909
 🙏Contribute🙏
 ---
 ![hyeong-jun's github stats](https://github-readme-stats.vercel.app/api?username=hyeong-jun-kim&show_icons=true&theme=dark&bg_color=#3399ff)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=forceTlight)](https://solved.ac/forceTlight/)
+
